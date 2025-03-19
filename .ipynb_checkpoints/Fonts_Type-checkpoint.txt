@@ -1,0 +1,35 @@
+Fonts Family >>>
+
+###################################################
+
+    font-family: 'Sail', cursive;
+
+    font-family: 'Shrikhand', cursive;
+
+    font-family: 'Knewave', cursive;
+
+    font-family: 'Trade Winds', cursive;
+
+    font-family: 'Cairo', sans-serif;
+
+    font-family: 'Baskervville', serif;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Amiri', serif;
+
+    font-family: 'Calistoga', cursive;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Roboto Slab', serif;
+
+    font-family: 'Changa', sans-serif;
+
+    font-family: 'Odibee Sans', cursive;
+
+    font-family: 'Calligraffitti', cursive;
+
+    font-family: 'Metal Mania', cursive;
+
+	To Be Continue...
